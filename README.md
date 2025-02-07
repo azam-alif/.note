@@ -47,7 +47,7 @@ This command will prompt you to enter your note, which will be saved for future 
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or encounter any issues, please reach me. My website: 'azam-alif.github.io'
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, please reach me. My website: azam-alif.github.io
 
 ## License
 
